@@ -1,0 +1,13 @@
+Title: "The cart icon doesn't update when adding items"
+  
+STR:
+    1: "Go to a product page",
+    2: "See that the cart icon",
+    3: "Click 'add to cart' button"
+    
+Current Behaviour: "The cart icon still shows X items but after reload it updates"
+Expected Behaviour: "The cart icon shows shows X+1 items immediately"
+
+Logs or Screenshots: "./bug_crat.log"
+
+Reported by: "Paulo"
