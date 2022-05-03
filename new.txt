@@ -1,0 +1,4 @@
+name - Pavlo,
+age - 41,
+pets - 1,
+futuresalry - 5000
